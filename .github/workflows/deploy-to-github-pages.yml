@@ -28,4 +28,4 @@ jobs:
               run: npm install vite
 
             - name: Start the app
-              run: npm run dev
+              run: npm run build
